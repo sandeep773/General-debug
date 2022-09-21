@@ -1,0 +1,2 @@
+Throughput is a measurement of user activity for a monitored application. New Relic APM throughput and New Relic Browser throughput are measured in different ways: requests per minute (RPM) for APM, and page views per minute (PPM) for Browser.
+
